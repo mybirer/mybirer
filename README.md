@@ -23,7 +23,7 @@ But if you're looking for someone who actually gets things done — let's talk.
 
 🔗 github.com/mybirer
 
-📬 mybirer@gmail.com
+📬 hi@mybirer.com
 <!--
 **mybirer/mybirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
